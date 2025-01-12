@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me
 
-- 🚀 3+ years of experience in web development, specializing in building responsive and scalable web applications.
+- 🚀 2+ years of experience in web development, specializing in building responsive and scalable web applications.
 - 🌏 Currently based in **Pakistan**.
 - 🔭 Working on improving my skills in **React, Node.js, and TypeScript**.
 - 🐎 Hobbies: Horse riding, traveling, and crafting.
