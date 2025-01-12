@@ -1,6 +1,6 @@
 ![Header](https://res.cloudinary.com/demo/image/upload/v1678796612/GitHubHeader.png)
 
-<h1 align="center">Hi there, I'm <a href="https://github.com/hamidazimi" target="_blank">Hamid Azimi</a> ✨</h1>
+<h1 align="center">Hi there, I'm <a href="https://github.com/azimiHamid" target="_blank">Hamid Azimi</a> ✨</h1>
 <p align="center">Web Developer | Software Engineer | Code Enthusiast</p>
 
 ---
