@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hamid%20Azimi&fontSize=60&fontAlign=50&fontAlignY=45&desc=Web%20Developer%20%7C%20Freelancer%20%7C%20Code%20Enthusiast&descAlign=50&descAlignY=70" alt="Header">
 
 <h1 align="center">Hi there, I'm <a href="https://github.com/azimiHamid" target="_blank">Hamid Azimi</a> ✨</h1>
-<p align="center">Web Developer | Code Enthusiast</p>
+<p align="center">Web Developer</p>
 
 ---
 
